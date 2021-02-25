@@ -19,9 +19,9 @@ haidragon_study
 * linux主动防御对抗视频教程
 * mac os主动防御对抗视频教程
 * [各种相关学习环境](https://github.com/haidragon/study_learn_environment)
-# 视频持续更新.......
+# 系统视频教程目录已csdn的为主
+# [csdn教学平台](https://edu.csdn.net/lecturer/5805?spm=1002.2001.3001.4144)
 * 一些公开文章可以看[study_frida](https://github.com/haidragon/study_frida)
 # [有条件可以去主页打赏作者](https://haidragon.github.io/)
-# [csdn教学平台](https://edu.csdn.net/lecturer/5805?spm=1002.2001.3001.4144)
 
 ![](./gzh.png)
