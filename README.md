@@ -16,7 +16,7 @@ haidragon_study
 * 电子取证对抗视频教程
 * windows主动防御对抗视频教程
 * android风控对抗教程
-* linux主动防御对抗视频教程
+* [linux主动防御对抗视频教程](https://github.com/haidragon/haidragon/blob/main/linux%E4%B8%BB%E5%8A%A8%E9%98%B2%E5%BE%A1%E5%AF%B9%E6%8A%97%E8%A7%86%E9%A2%91%E6%95%99%E7%A8%8B.md)
 * mac os主动防御对抗视频教程
 * [各种相关学习环境](https://github.com/haidragon/study_learn_environment)
 # 系统视频教程目录以csdn的为主
