@@ -24,13 +24,4 @@
 * 22.check Cred Change
 * 23.check module
 * 24.check threads
-* 25.结构感知模糊测试介绍
-* 26.自定义LibFuzzer变量
-* 27.程序状态 Fuzzing 
-* 28.protobuf mutator
-* 29.语法Fuzzing-protobuf
-* 30.实战-Fluent Bit Fuzzing
-* 31.实战-PHP Fuzzing
-* 32.实战-Chromium fuzzing
-* 33.Python fuzzing
-* 34.总结
+ 
