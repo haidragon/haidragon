@@ -1,5 +1,5 @@
 
-# haidragon_study  视频下载请加vx 2207344074 内推工作，扩大圈子，长期更新。
+# haidragon_study  视频下载请加vx 2207344074 长期更新,可以加个好友交个朋友以及内推工作。
 haidragon_study
 
 * [ios逆向视频教程](https://github.com/haidragon/haidragon_study/blob/master/ios%E9%80%86%E5%90%91%E8%A7%86%E9%A2%91%E6%95%99%E7%A8%8B.md)
