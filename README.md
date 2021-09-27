@@ -14,13 +14,13 @@ haidragon_study
 * [渗透视频教程](https://github.com/haidragon/haidragon_study/blob/master/%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95%E8%A7%86%E9%A2%91%E6%95%99%E7%A8%8B.md)
 * [物联网(IOT)安全视频教程](https://github.com/haidragon/haidragon_study/blob/master/%E7%89%A9%E8%81%94%E7%BD%91(IOT)%E5%AE%89%E5%85%A8%E8%A7%86%E9%A2%91%E6%95%99%E7%A8%8B.md)
 * [linux主动防御对抗视频教程](https://github.com/haidragon/haidragon/blob/main/linux%E4%B8%BB%E5%8A%A8%E9%98%B2%E5%BE%A1%E5%AF%B9%E6%8A%97%E8%A7%86%E9%A2%91%E6%95%99%E7%A8%8B.md)
+* [windows主动防御对抗视频教程](https://github.com/haidragon/haidragon/blob/main/windows_ids.md)
+* [各种相关学习环境](https://github.com/haidragon/study_learn_environment)
 * mac os主动防御对抗视频教程
 * 电子取证对抗视频教程
-* [windows主动防御对抗视频教程](https://github.com/haidragon/haidragon/blob/main/windows_ids.md)
 * android风控对抗教程
 * 单片机逆向视频教程
 * 工控安全视频教程
-* [各种相关学习环境](https://github.com/haidragon/study_learn_environment)
 # 系统视频教程目录以csdn的为主
 # [csdn教学平台](https://edu.csdn.net/lecturer/5805?spm=1002.2001.3001.4144)
 * 一些公开文章可以看[study_frida](https://github.com/haidragon/study_frida)
