@@ -23,7 +23,7 @@ haidragon_study
 * 工控安全视频教程
 # 系统视频教程目录以csdn的为主
 # [csdn教学平台](https://edu.csdn.net/lecturer/5805?spm=1002.2001.3001.4144)
-* 一些公开文章可以看[study_frida](https://github.com/haidragon/study_frida)
+* 一些公开文章和视频可以看[study_frida](https://github.com/haidragon/study_frida)
 # [有条件可以去主页打赏作者](https://haidragon.github.io/)
 
 ![](./gzh.png)
