@@ -1,7 +1,9 @@
 
 # haidragon_study  视频下载请加vx 2207344074 长期更新,可以加个好友交个朋友以及内推工作。
-haidragon_study
-
+# 系统视频教程目录以csdn的为主
+# [csdn教学平台](https://edu.csdn.net/lecturer/5805?spm=1002.2001.3001.4144)
+# 一些公开文章和视频可以看[study_frida](https://github.com/haidragon/study_frida)
+# 详细列表haidragon_study
 * [ios逆向视频教程](https://github.com/haidragon/haidragon_study/blob/master/ios%E9%80%86%E5%90%91%E8%A7%86%E9%A2%91%E6%95%99%E7%A8%8B.md)
 * [android逆向视频教程](https://github.com/haidragon/haidragon_study/blob/master/android%E9%80%86%E5%90%91%E8%A7%86%E9%A2%91%E6%95%99%E7%A8%8B.md)
 * [linux逆向视频教程](https://github.com/haidragon/haidragon_study/blob/master/linux%E9%80%86%E5%90%91%E8%A7%86%E9%A2%91%E6%95%99%E7%A8%8B.md)
@@ -21,9 +23,6 @@ haidragon_study
 * android风控对抗教程
 * 单片机逆向视频教程
 * 工控安全视频教程
-# 系统视频教程目录以csdn的为主
-# [csdn教学平台](https://edu.csdn.net/lecturer/5805?spm=1002.2001.3001.4144)
-# 一些公开文章和视频可以看[study_frida](https://github.com/haidragon/study_frida)
 # [有条件可以去主页打赏作者](https://haidragon.github.io/)
 
 ![](./gzh.png)
