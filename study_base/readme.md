@@ -18,3 +18,18 @@
 * 16.arm系统调用介绍与实现
 * 17.聚合数据类型
 
+# php基础视频教程
+* page1 环境搭建
+* page2 变量、数据类型、类型比较
+* page3 常量字符串、数组、运算符、条件语句
+* page4 函数、时间、日期
+* page5 异常处理、命名空间
+* page6 面像对象(类)
+* paga7 搭建web服务器环境
+* page8 http协议基础、GET、POST请求
+* page9 表单、文件上传、文件处理
+* page10 XML、json
+* page11 Cookie、Session
+* page12 php动态调试
+
+
