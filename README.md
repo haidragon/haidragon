@@ -20,6 +20,7 @@
 * [各种相关学习环境](https://github.com/haidragon/study_learn_environment) 
 * [电子取证对抗视频教程](https://github.com/haidragon/haidragon/blob/main/%E7%94%B5%E5%AD%90%E5%8F%96%E8%AF%81.md)
 * [各种语言基础视频教程](https://github.com/haidragon/haidragon/blob/main/study_base/readme.md)
+* [各种安全工具使用视频教程](https://github.com/haidragon/haidragon/blob/main/tools/readme.md)
 * android风控对抗教程
 # [有条件可以去主页打赏作者](https://haidragon.github.io/)
 
