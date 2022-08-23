@@ -93,9 +93,29 @@
 * 33.可执行文件加载
 * 34.hook库函数(libc) 
 * 35.符号执行与污点分析
-* 36.符号执行案例
-* 37.污点分析案例
-* 38.Triton反混淆
+* 36.符号执行介绍
+* 39.符号执行简单案例
+* 40.符号执行-代码约束
+* 41.符号执行-状态约束
+* 42.符号化寄存器
+* 43.符号化寄存器
+* 44.符号化栈上的值
+* 45.符号化内存
+* 46.符号化动态内存
+* 47.符号化文件内容
+* 48.符号执行-内存约束
+* 49.符号执行-函数地址hook
+* 50.符号执行-函数名称hook
+* 51.符号执行-scanf函数hook
+* 52.符号执行-静态库函数hook
+* 53.符号执行-动态库函数hook
+* 54.混合符号执行
+* 55.符号执行-任意地址读
+* 56.符号执行-任意地址写
+* 57.符号执行-任意地址跳转
+* 58.污点分析案例
+* 59.Triton反混淆
+
  
 # eBPF视频教程
 * 1.课程介绍
@@ -249,3 +269,93 @@
 * 32.实战-Chromium fuzzing
 * 33.Python fuzzing
 * 34.总结
+
+#  qiling源码分析与使用视频教程 
+* 1.课程介绍
+* 2.qiling源码编译与环境搭建
+* 3.第一个qiling程序
+* 4.unicorn工具回顾
+* 5.qiling框架深入了解
+* 6.Qiling APIS介绍
+* 7.shellcode模拟
+* 8.二进制文件模拟
+* 9.qltool工具使用
+* 10.日志系统
+* 11.函数劫持(api替换、hook、patch)
+* 12.快照(snapshot)
+* 13.qiling动态调试
+* 14.寄存器操作
+* 15.内存与堆栈
+* 16.高级hook
+* 17.代码覆盖率
+* 18.自己添加syscall与OSapi
+
+# LIEF框架视频教程
+* 1.课程介绍
+* 2.LIEF学习必备条件
+* 3.TLIEF译与安装
+* 4.简单使用与源码框架了解
+* 5.elf文件解析
+* 6.pe文件解析
+* 7.macho文件解析
+* 8.其它文件格式
+* 9.文件静态注入
+* 10.函数静态hook
+* 11.文件修改介绍(加壳)
+* 12.删除节表
+* 13.添加节表
+* 14.文件混淆
+* 15.bin2lib
+
+# frida 视频教程  
+## android
+* 1.frida 介绍与环境搭建(android)
+* 2.利用frida 获取java类信息
+* 3.利用frida hook java常用方法(成员函数、构造函数、有参函数)
+* 4.利用frida hook java中其它情况(内部类、同名函数、自定义参数)
+* 5.利用frida hook java中常用容器类
+* 6.利用frida 实现 java版 class_trace
+* 7.frida hook native层上(遍历 hook got/plt表、未导出函数)
+* 8.frida hook native层下(函数返回值修改、修改内存数据、指针问题、任意地址hook)
+* 9.frida hook jni(jni函数hook、jni调用)
+* 10.frida RPC远程调用
+* 11.frida android中其它实例(常用工具、socket_trace、算法追踪、脱壳)
+* 12.frida android逆向实战1
+* 13.frida android逆向实战2
+## ios
+* 14.ios越狱	
+* 15.ios越狱环境搭建
+* 16.frida 环境搭建(ios)
+* 17.frida 常用命令使用介绍
+* 18.frida hook Objc常用方法
+* 19.frida hook Objc中常用容器类
+* 20.frida hook native层
+* 21.frida hook 其它情况(任意地址hook、API查找器)
+* 22.frida 主动调用
+* 23.frida hook Swift
+* 24.frida ios中其它实例(常用工具、socket_trace、算法追踪、脱壳)  //passionfruit
+* 25.frida ios逆向实战
+## pc
+* 25.frida pc上环境搭建与使用
+* 26.frida 实战(macOS)
+* 27.frida 实战(windows)
+* 28.frida 实战(linux)
+
+
+# angr框架使用源码分析视频教程  
+## 基础
+* 1.课程介绍
+* 2.angr介绍与编译安装
+* 3.angr框架了解与案例
+* 4.实现一个最简单的my_qemu(kvm)
+* 5.shellcode指令追踪使用
+* 6.angr加载可执行文件
+* 7.angr单个函数模拟
+* 8.angr函数参数传递模拟
+* 9.angr源码分析-Project类
+* 10.angr源码分析-factory类
+* 11.函数hook与手动反汇编
+* 12.angr源码分析-SimState类
+* 13.angr模块分析-加载器
+* 14.angr生成cfg流程图
+* 15.angr符号执行原理
