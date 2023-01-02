@@ -1,4 +1,4 @@
-# [windows主动防御视频教程(HIDS底层原理)](https://edu.csdn.net/course/detail/35804) 9999
+# [windows主动防御视频教程(HIDS底层原理)](https://edu.csdn.net/course/detail/35804)  
 * 1.课程介绍
 * 2.windows开发环境搭建
 ## 第一章节 PE文件格式
