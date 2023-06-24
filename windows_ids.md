@@ -112,3 +112,4 @@
 * 10.usbstor当栈底(创建子代PDO)
 * 11.usbccgp通用驱动介绍
 * 12.源码调试usbstor与usbccgp
+* 13.为何U盘通过盘符获取不了十六进制的vid与pid 
