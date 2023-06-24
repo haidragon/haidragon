@@ -97,3 +97,18 @@
 * 83.初始化EPT
 * 84.EPT hook
 * 85.总结
+
+
+
+* 1.pnpmgr介绍
+* 2.如何找到pnpmgr相关代码
+* 3.pnpmgr代码自举（整个系统第一个设备创建）
+* 4.设备管理器分析所有设备关系树
+* 5.windows内核启动流程
+* 6.usbstor介绍
+* 7.usbstor源码分析
+* 8.什么时候IRP会自下而上
+* 9.usbstor的PNP处理
+* 10.usbstor当当栈底(创建子代PDO)
+* 11.usbccgp通用驱动介绍
+* 12.源码调试usbstor与usbccgp
