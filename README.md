@@ -24,7 +24,7 @@
 * android风控对抗教程
 # [有条件可以去主页打赏作者](https://haidragon.github.io/)
 
-# 成为vip可以获取所有视频跟额外资料，长期更新！！！
+
 ![](./gzh.png)
 
 ![mac ios安全视频大纲](https://github.com/haidragon/haidragon/blob/main/mac%20ios%E5%AE%89%E5%85%A8%E8%A7%86%E9%A2%91.png))
