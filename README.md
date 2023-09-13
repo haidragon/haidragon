@@ -28,7 +28,7 @@
 
 ![](./gzh.png)
 
-![mac ios安全视频大纲](https://github.com/haidragon/haidragon/blob/main/mac%20ios%E5%AE%89%E5%85%A8%E8%A7%86%E9%A2%91.png))
+![mac ios安全视频大纲](https://github.com/haidragon/haidragon/blob/main/mac:ios%E5%AE%89%E5%85%A8%E8%A7%86%E9%A2%91.png)
 ![ios逆向视频大纲](https://github.com/haidragon/haidragon/blob/main/ios%E9%80%86%E5%90%91%E7%AC%AC%E4%B8%80%E6%9C%9F.png)
 ![android/linux漏洞](https://github.com/haidragon/haidragon/blob/main/linux:Android%20%E6%BC%8F%E6%B4%9E.png)
 ![usb过滤透传虚拟化](https://github.com/haidragon/haidragon/blob/main/windows%E4%B8%8Ausb%E8%BF%87%E6%BB%A4%E4%B8%8E%E9%80%8F%E4%BC%A0(%E8%99%9A%E6%8B%9F%E5%8C%96)%E8%A7%86%E9%A2%91%E6%95%99%E7%A8%8B.png)
