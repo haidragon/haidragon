@@ -1,5 +1,5 @@
 
-# haidragon_study  视频下载请加vx 2207344074 长期更新,可以加个好友交个朋友以及内推工作。
+# ![haidragon_study](https://www.haidragonstudy.com/)  视频下载请加vx 2207344074 长期更新,可以加个好友交个朋友以及内推工作。
 # 系统视频教程目录以csdn的为主
 # [csdn教学平台](https://edu.csdn.net/lecturer/5805?spm=1002.2001.3001.4144)
 # 一些公开文章和视频可以看[study_frida](https://github.com/haidragon/study_frida)
