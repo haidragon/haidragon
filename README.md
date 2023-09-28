@@ -23,9 +23,10 @@
 * [各种语言基础视频教程](https://github.com/haidragon/haidragon/blob/main/study_base/readme.md)
 * [各种安全工具使用视频教程](https://github.com/haidragon/haidragon/blob/main/tools/readme.md)
 * android风控对抗教程
+# [windows平台视频教程大全](https://github.com/haidragon/haidragon.github.io/blob/main/windows/windows.md)
+
 # [有条件可以去主页打赏作者](https://haidragon.github.io/)
 
-* [windows平台视频教程大全](https://github.com/haidragon/haidragon.github.io/blob/main/windows/windows.md)
 ![](./gzh.png)
 
  
