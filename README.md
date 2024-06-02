@@ -1,9 +1,16 @@
 
 # [haidragon_study官网](https://www.haidragonstudy.com/)  视频下载请加vx 2207344074 长期更新,可以加个好友交个朋友以及内推工作。
 # 最新视频教程列表
+# [公共基础课](https://github.com/haidragon/haidragon.github.io/blob/main/public/public.md)
 # [windows平台视频教程大全](https://github.com/haidragon/haidragon.github.io/blob/main/windows/windows.md)
 # [linux平台视频教程大全](https://github.com/haidragon/haidragon.github.io/blob/main/linux/linux.md)
-# [公共基础课](https://github.com/haidragon/haidragon.github.io/blob/main/public/public.md)
+
+
+
+
+
+
+
 
 # 一些公开文章和视频可以看[study_frida](https://github.com/haidragon/study_frida)
 # 详细列表haidragon_study(以前老的)
