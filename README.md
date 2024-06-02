@@ -3,6 +3,7 @@
 # 最新视频教程列表
 # [windows平台视频教程大全](https://github.com/haidragon/haidragon.github.io/blob/main/windows/windows.md)
 # [linux平台视频教程大全](https://github.com/haidragon/haidragon.github.io/blob/main/linux/linux.md)
+# [公共基础课](https://github.com/haidragon/haidragon.github.io/blob/main/public/public.md)
 
 # 一些公开文章和视频可以看[study_frida](https://github.com/haidragon/study_frida)
 # 详细列表haidragon_study(以前老的)
