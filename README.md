@@ -2,4 +2,4 @@
 
 # [本人介绍](http://securitytech.cc/about)
 
-![公众号](https://github.com/haidragon/haidragon/gzh.png)
+![公众号](https://github.com/haidragon/haidragon/blob/main/gzh.png)
